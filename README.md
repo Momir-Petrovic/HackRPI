@@ -1,6 +1,3 @@
-# HackRPI
-
-Test 
 # Test
 ## test
 ### Test
